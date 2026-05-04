@@ -1,0 +1,9 @@
+{
+  "name": "priority-inbox-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Priority Inbox system frontend",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
